@@ -1,0 +1,6 @@
+.idea/
+.vagrant/
+.rvm/
+.bash_history
+.pki/
+.gnupg/
