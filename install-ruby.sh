@@ -5,8 +5,8 @@
  rvm use --default --install $1
 
  shift
- cd 'code/lrfantasy'
- pwd
+ cd 'code'
+
  echo "create gemset"
  rvm gemset create lrfantasy
  rvm gemset use lrfantasy
