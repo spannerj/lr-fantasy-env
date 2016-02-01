@@ -15,6 +15,6 @@
  then gem install $@
  fi
 
- bundle install
+ bundle install --without production
 
  rvm cleanup all
